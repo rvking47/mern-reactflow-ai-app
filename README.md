@@ -3,25 +3,24 @@
 
 #🚀 Features
 
---Visual flow editor using React Flow
---Input node to enter AI prompt
-Result node to display AI response
-Backend API using Node.js & Express
-AI text generation via OpenRouter API
-Free AI models supported:
-mistralai/mistral-7b-instruct:free
-google/gemini-2.0-flash-lite-preview-02-05:free
-Save prompt & response to MongoDB
-Secure API key handling (backend only)
+### Visual flow editor using React Flow
+### Input node to enter AI prompt
+### Result node to display AI response
+### Backend API using Node.js & Express
+### AI text generation via OpenRouter API
+## Free AI models supported:
+### mistralai/mistral-7b-instruct:free
+### Save prompt & response to MongoDB
+### Secure API key handling (backend only)
 
 # 🧠 Tech Stack
-Frontend
-React
-React Flow
-Axios
-Backend
-Node.js
-Express.js
-OpenRouter API
-Database
-MongoDB (Atlas)
+## Frontend
+### React
+### React Flow
+### Axios
+## Backend
+### Node.js
+### Express.js
+### OpenRouter API
+### Database
+### MongoDB (Atlas)
