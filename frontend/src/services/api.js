@@ -1,7 +1,8 @@
 import axios from "axios";
 
 const api = axios.create({
-    baseURL: "http://localhost:7002/api",
+    baseURL: "https://mern-reactflow-ai-app.onrender.com/api",
 });
+
 
 export default api;
