@@ -4,7 +4,7 @@
 #🚀 Features
 
 --Visual flow editor using React Flow
-Input node to enter AI prompt
+--Input node to enter AI prompt
 Result node to display AI response
 Backend API using Node.js & Express
 AI text generation via OpenRouter API
