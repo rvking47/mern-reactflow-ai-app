@@ -1,6 +1,8 @@
 # MERN AI Flow Builder
 ### A MERN stack application that allows users to create a simple AI flow using React Flow, send prompts to an AI model via OpenRouter, visualize responses, and save prompt–response data to MongoDB.
 
+![image](aiFlow.png)
+
 # 🚀 Features
 
 - Visual flow editor using React Flow
